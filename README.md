@@ -19,7 +19,6 @@
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Deployment](#deployment)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -35,20 +34,6 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
 
 <details>
 <summary>Database</summary>
@@ -91,16 +76,6 @@ To install this project, you must execute the sql instructions contained in [sch
 ### Usage
 
 To run the project, you can execute the queries from [queries.sql](./queries.sql) or try your own SQL queries
-
-<!-- ### Run tests
-
-To run tests, run the following command: -->
-
-### Deployment
-
-You can deploy this project using: GitHub Pages Netifly or Render 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
